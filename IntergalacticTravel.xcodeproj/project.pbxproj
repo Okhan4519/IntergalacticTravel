@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FF2FF12427358A7B00EBC3FC /* StarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2FF12327358A7B00EBC3FC /* StarViewController.swift */; };
 		FF83A03B2732E38800FB057C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF83A03A2732E38800FB057C /* AppDelegate.swift */; };
 		FF83A03D2732E38800FB057C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF83A03C2732E38800FB057C /* SceneDelegate.swift */; };
 		FF83A03F2732E38800FB057C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF83A03E2732E38800FB057C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FF2FF12327358A7B00EBC3FC /* StarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarViewController.swift; sourceTree = "<group>"; };
 		FF83A0372732E38800FB057C /* IntergalacticTravel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntergalacticTravel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF83A03A2732E38800FB057C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FF83A03C2732E38800FB057C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				FF83A03C2732E38800FB057C /* SceneDelegate.swift */,
 				FF83A03E2732E38800FB057C /* ViewController.swift */,
 				FF83A0402732E38800FB057C /* Main.storyboard */,
+				FF2FF12327358A7B00EBC3FC /* StarViewController.swift */,
 				FF83A0432732E38A00FB057C /* Assets.xcassets */,
 				FF83A0452732E38A00FB057C /* LaunchScreen.storyboard */,
 				FF83A0482732E38A00FB057C /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF2FF12427358A7B00EBC3FC /* StarViewController.swift in Sources */,
 				FF83A03F2732E38800FB057C /* ViewController.swift in Sources */,
 				FF83A03B2732E38800FB057C /* AppDelegate.swift in Sources */,
 				FF83A03D2732E38800FB057C /* SceneDelegate.swift in Sources */,
